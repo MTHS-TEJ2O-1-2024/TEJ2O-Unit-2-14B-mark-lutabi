@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
- * Created on: Sep 2020
- * This program ...
+ * Created by: Mark lutabi
+ * Created on: November, 2024
+ * This program move the Sprite and the pixels making a square
 */
 
 
